@@ -1,6 +1,6 @@
 # EN 13606 Archetype of Occupational Health Assessment Summary
 
-Contains:<p>
+<b>Contains:</b><p>
 1. EN 13606 archetype of Occupational Health Assessment Sumamry <p> 
               CEN-EN13606-COMPOSITION.OccupationalHealthAssessmentSummary.v3EN.adl
 2. Sample instance of EN 13606 archetype of Occupational Health Assessment Sumamry (validated w.r. EN 13606 RM and Datatypes)<p>
