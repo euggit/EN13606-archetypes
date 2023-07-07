@@ -8,5 +8,5 @@ Contains:
               CEN-EN13606-COMPOSITION.OccupationalHealthAssessmentSummary.v3EN.xml
 3. XML schema of the EN 13606 Reference Model (RM) RM and Datatypes)
               EN13606-RM.xsd
-4. XML schema of the EN 13606 Datatypes  
+5. XML schema of the EN 13606 Datatypes  
               TS14796-dataTypes.xsd
